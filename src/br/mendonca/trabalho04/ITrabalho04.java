@@ -1,12 +1,12 @@
-package br.mendonca.trabalho03;
+package br.mendonca.trabalho04;
 
-public interface ITrabalho03 {
+public interface ITrabalho04 {
 
 	String getAluno();
 	
-	Object[] getLista();
-
 	int getQuantidade();
+
+	Object getLista();
 
 	void enqueue(ITAD tad);
 
