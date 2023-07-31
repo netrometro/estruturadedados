@@ -4,7 +4,7 @@ public interface ITrabalho05 {
 
 	String getAluno();
 
-	Object getLista();
+	Object[] getLista();
 
 	int getQuantidade();
 
