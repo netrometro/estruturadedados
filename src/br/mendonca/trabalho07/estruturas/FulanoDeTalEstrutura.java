@@ -1,4 +1,4 @@
-package br.mendonca.trabalho01.estrutura;
+package br.mendonca.trabalho07.estruturas;
 
 public class FulanoDeTalEstrutura {
 
