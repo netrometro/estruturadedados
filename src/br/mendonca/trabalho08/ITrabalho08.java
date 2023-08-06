@@ -1,6 +1,6 @@
-package br.mendonca.trabalho07;
+package br.mendonca.trabalho08;
 
-public interface ITrabalho07 {
+public interface ITrabalho08 {
 
 	String getAluno();
 
