@@ -18,7 +18,7 @@ public interface ITrabalho07 {
 
 	ITAD removerNoFim();
 
-	ITAD removerNoMeio();
+	ITAD removerNoMeio(int posicao);
 
 	ITAD get(int posicao);
 
