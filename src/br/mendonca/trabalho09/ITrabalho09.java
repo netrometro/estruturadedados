@@ -8,9 +8,9 @@ public interface ITrabalho09 {
 
 	Object getLista();
 
-	void inserirAntes();
+	void inserirAntes(ITAD tad);
 
-	void inserirDepois();
+	void inserirDepois(ITAD tad);
 
 	void deslocarCursor(int posicao);
 
