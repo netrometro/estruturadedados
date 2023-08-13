@@ -4,6 +4,6 @@ public interface ISort {
 
 	String getAluno();
 
-	ITAD bubble(ITrabalho11 lista);
+	void bubble(ITrabalho11 lista);
 
 }
