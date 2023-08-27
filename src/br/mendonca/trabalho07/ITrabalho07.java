@@ -8,7 +8,7 @@ public interface ITrabalho07 {
 
 	int getQuantidade();
 
-	void inserirNoIncio(ITAD tad);
+	void inserirNoInicio(ITAD tad);
 
 	void inserirNoFim(ITAD tad);
 
